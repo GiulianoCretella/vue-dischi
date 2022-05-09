@@ -8,12 +8,13 @@
 
 <script>
 export default {
-    name:'AppHeader'
+    name:'AppHeader',
 }
 </script>
 
 <style lang="scss" scoped>
-@import '../style/general.scss';
+@import '../style/variables.scss';
+
 header{
     background-color: $header-bg-color;
     height: 80px;

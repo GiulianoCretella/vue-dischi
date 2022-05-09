@@ -16,7 +16,7 @@ export default {
 </script>
 
 <style lang="scss">
-@import '../style/general.scss';
+@import '../style/variables.scss';
 .my_card{
     width: 200px;
     padding: 15px;
